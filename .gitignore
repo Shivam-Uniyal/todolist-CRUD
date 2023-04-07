@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# dotenv environment variable file
+.env
+
+# MongoDB files
+*.bson
+*.dump
+*.mongo
+*.log
+*.sock
+*.pid
+
+# OS generated files
+.DS_Store
+Thumbs.db
